@@ -12,6 +12,8 @@ This project is part of the Expert Systems course and involves implementing a ca
 
 In this project, we use CLIPS to create a rule-based expert system for diagnosing car problems. The system asks a series of questions related to the car's symptoms and, based on the user's responses, provides recommendations for further actions, such as calling for assistance, buying petrol, or performing specific maintenance tasks.
 
+![capture](https://github.com/Amirkia1998/Car-Dialogue/blob/main/Car-Rules/Capture.PNG)
+
 ## Approaches
 
 ### Approach 1: Car_Dialogue1.clp
